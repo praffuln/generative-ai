@@ -1,0 +1,21 @@
+######## LLM ##################
+https://www.youtube.com/watch?v=bY__YW-xknU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=1
+https://www.youtube.com/watch?v=MLLLDaR6P08&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm&index=2  --- llm course
+
+https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=1  --- ml course hindi
+
+langchain
+https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar
+https://www.youtube.com/watch?v=qMIM7dECAkc
+
+https://www.youtube.com/watch?v=nAmC7SoVLd8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F (pad rha hu main)
+ 
+https://python.langchain.com/docs/use_cases/question_answering/document-context-aware-QA(2 padna hai mujhe kal se)
+
+https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5  (3 Complete me)
+https://www.youtube.com/watch?v=5-fc4Tlgmro&list=PLVEEucA9MYhOu89CX8H3MBZqayTbcCTMr
+
+
+langchain-1 ::::  https://www.youtube.com/watch?v=nAmC7SoVLd8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F
+
+langchain-2 :::: https://www.youtube.com/watch?v=vGP4pQdCocw&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=10

@@ -19,3 +19,20 @@ https://www.youtube.com/watch?v=5-fc4Tlgmro&list=PLVEEucA9MYhOu89CX8H3MBZqayTbcC
 langchain-1 ::::  https://www.youtube.com/watch?v=nAmC7SoVLd8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F
 
 langchain-2 :::: https://www.youtube.com/watch?v=vGP4pQdCocw&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=10
+
+
+
+
+
+https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/gen-qa-openai.ipynb
+
+
+
+
+new series
+
+https://www.youtube.com/watch?v=VL6MAAgwSDM&list=PLMVV8yyL2GN_n41v1ESBvDHwMbYYhlAh1
+
+https://www.youtube.com/watch?v=dXxQ0LR-3Hg
+https://www.youtube.com/watch?v=QshWJ77Sktc
+https://www.youtube.com/watch?v=p8jTOH_yGcc&list=PLrLEqwuz-mRIdlmvhddd7nGiNh8exqsBG

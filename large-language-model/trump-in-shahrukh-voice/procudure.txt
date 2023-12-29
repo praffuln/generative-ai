@@ -1,0 +1,20 @@
+1) https://www.youtube.com/shorts/c2Wmrpzt4Ew?feature=share --> download video of shahrukh khan
+
+2) https://ssyoutube.com/en750PM/  --> tool to download youtube video
+
+3) Extract audio from ---> https://biteable.com/tools/extract-audio-from-video/
+
+4) convert wav to mp3 file. --> https://cloudconvert.com/wav-to-mp3
+
+5) Convert text to audio of text by using ---> https://replicate.com/afiaka87/tortoise-tts
+
+audio is ::::
+
+Practice will make everything seem easier. Be diligent, be thorough. Think of every job you do as the first one, so you have to get it right or you won’t be able to impress everyone. And at the same time do it as your last job as if you will not get a chance to do it again ever. 
+
+6) download shahrukh khan motivational replicate dialogue. upload both downloaded video and this audio to colob notebook.
+
+7) Run the notebook.
+  Wav2Lip_simplified_v5.ipynb
+
+8) result_voice.mp4 is the final result.

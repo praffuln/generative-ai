@@ -37,3 +37,10 @@ https://www.youtube.com/watch?v=dXxQ0LR-3Hg
 https://www.youtube.com/watch?v=QshWJ77Sktc
 https://www.youtube.com/watch?v=p8jTOH_yGcc&list=PLrLEqwuz-mRIdlmvhddd7nGiNh8exqsBG
 https://www.youtube.com/watch?v=whireM07DUk&list=PLpdmBGJ6ELULEfPWvvks0HtwzCvQo1zu0
+
+
+***********August Month************************
+https://www.youtube.com/watch?v=eUY9i1CWmUg
+https://www.infoq.com/presentations/rag-patterns/
+https://www.linkedin.com/pulse/rag-design-patterns-dinesh-kumar-mjtrc/
+https://winder.ai/llm-architecture-rag-implementation-design-patterns/#prioritizing-improvements-in-rag-systems

@@ -44,3 +44,4 @@ https://www.youtube.com/watch?v=eUY9i1CWmUg
 https://www.infoq.com/presentations/rag-patterns/
 https://www.linkedin.com/pulse/rag-design-patterns-dinesh-kumar-mjtrc/
 https://winder.ai/llm-architecture-rag-implementation-design-patterns/#prioritizing-improvements-in-rag-systems
+https://blog.langchain.dev/semi-structured-multi-modal-rag/
